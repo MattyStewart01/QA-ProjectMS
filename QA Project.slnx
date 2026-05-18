@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QA Project/QA Project.csproj" />
+  <Project Path="QAProjectDotNet6Plus/QAProjectDotNet6Plus.csproj" />
+</Solution>
