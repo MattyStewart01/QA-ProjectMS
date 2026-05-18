@@ -4,3 +4,4 @@ Console.WriteLine("Hello " + name + ", how are you on " + date + "?");
 Console.ReadLine();
 Console.WriteLine($"Hello {name}, how are you on {date}?");
 Console.ReadLine();
+String s1 = "test1";
